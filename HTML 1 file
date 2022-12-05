@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Day 02 |Boy With Codes</title>
+<link rel="stylesheet" href="C:\Users\Devansh Hui\OneDrive\Documents\pro1.css" />
+</head>
+<body>
+<section class="nav">
+<div class="logo">
+
+<img src="C:\Users\Devansh Hui\Downloads\ecocar.png">
+</div>
+<div class="items">
+<ul>
+<li id="active">Home</li>
+<li id="active">Solutions</li>
+<li id="active">Features</li>
+<li id="active">Feedback</li>
+<li id="active">Contact us</li>
+<li id="active">new cars</li>
+<li id="active">used cars</li>
+</ul>
+</div>
+<div class="btn">
+<button>Find Station</button>
+</div>
+</section>
+<section class="content">
+<div class="c-1">
+<h1>
+<span>Go</span> <span>Electric</span>
+<br />
+<span>Go</span> <span>Everywhere</span>
+
+
+</h1>
+</div>
+<div class="c-2">
+<p>
+We empower forward thinking buisnesses to build <br />
+a sustainable future by providing flexible and <br />
+acalable elctric vehicle charging solutions.
+</p>
+</div>
+<div class="c-3">
+<a href="C:\Users\Devansh Hui\OneDrive\Documents\project1.html"><button>Learn more</button></a>
+</div>
+</section>
+</body>
+</html>
